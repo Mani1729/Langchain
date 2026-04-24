@@ -1,0 +1,20 @@
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-anthropic>=0.1.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+langsmith>=0.0.87
+pydantic>=2.0.0
+
+# Optional: Built-in tools
+duckduckgo-search>=4.0.0
+wikipedia>=1.4.0
+
+# Optional: Vector stores (for RAG)
+# faiss-cpu>=1.7.4
+# chromadb>=0.4.0
+
+# Optional: Other utilities
+# tiktoken>=0.5.0  # Token counting
+# openai>=1.0.0  # Direct OpenAI SDK
